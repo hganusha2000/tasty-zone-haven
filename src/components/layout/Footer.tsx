@@ -66,14 +66,14 @@ const Footer = () => {
             <h3 className="text-lg font-medium mb-6">Contact Us</h3>
             <ul className="space-y-3">
               <li className="text-white/70">
-                123 Gourmet Avenue, Culinary District<br />
-                New York, NY 10001
+                Koramangala, 5th Block, Bangalore,<br />
+                Karnataka 560095
               </li>
               <li className="text-white/70">
-                +1 (555) 123-4567
+              +91 9019813744
               </li>
               <li className="text-white/70">
-                info@foodyzone.com
+                anusha@foodyzone.com
               </li>
             </ul>
           </div>
