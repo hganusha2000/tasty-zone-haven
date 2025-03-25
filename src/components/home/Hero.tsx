@@ -17,7 +17,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 flex flex-col justify-center items-center h-full text-center px-4">
         <span className="text-sm md:text-base text-white/90 font-medium uppercase tracking-wider mb-4 opacity-0 animate-fade-in" style={{"--reveal-delay": "1"} as React.CSSProperties}>
-          Elevating Culinary Arts
+        Arts of Cooking
         </span>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl text-white font-serif font-bold max-w-4xl leading-tight mb-6 opacity-0 animate-fade-in" style={{"--reveal-delay": "3"} as React.CSSProperties}>
@@ -25,14 +25,14 @@ const Hero = () => {
         </h1>
         
         <p className="text-white/80 max-w-xl mb-8 text-base md:text-lg opacity-0 animate-fade-in" style={{"--reveal-delay": "5"} as React.CSSProperties}>
-          Indulge in a culinary journey where traditional flavors meet contemporary techniques, creating an unforgettable dining experience.
+        Enjoy a food journey that combines classic flavors with latest preparation methods to produce a memorable meal.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 opacity-0 animate-fade-in" style={{"--reveal-delay": "7"} as React.CSSProperties}>
           <a href="#menu" className="px-8 py-3 rounded-full bg-foody-700 text-white font-medium transition-all duration-300 hover:bg-foody-600 hover:shadow-lg">
             View Our Menu
           </a>
-          <a href="#contact" className="px-8 py-3 rounded-full bg-white/10 backdrop-blur-sm text-white border border-white/30 font-medium transition-all duration-300 hover:bg-white/20 hover:shadow-lg">
+          <a href="#contact" className="px-8 py-3 rounded-full bg-foody-700 text-white font-medium transition-all duration-300 hover:bg-foody-600 hover:shadow-lg">
             Make a Reservation
           </a>
         </div>

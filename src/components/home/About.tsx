@@ -30,7 +30,8 @@ const About = () => {
             <h2 className="text-3xl md:text-4xl font-serif font-semibold mt-2 mb-6">Crafting Exceptional Dining Experiences</h2>
             
             <p className="text-muted-foreground mb-8">
-              Founded in 2008, Foody Zone began with a simple vision: to create a dining destination that celebrates the art of food. Our restaurant has evolved from a small local favorite to a culinary landmark known for innovative dishes that honor traditional techniques while embracing modern creativity.
+              {/*Founded in 2025, Foody Zone began with a simple vision: to create a dining destination that celebrates the art of food. Our restaurant has evolved from a small local favorite to a culinary landmark known for innovative dishes that honor traditional techniques while embracing modern creativity.*/}
+              Foody Zone was founded in 2025 with the straightforward goal of establishing a restaurant that honors the craft of cooking. From a humble neighborhood favorite, our restaurant has developed into a culinary icon renowned for creative dishes that respect traditional methods while embracing modern creativity.
             </p>
             
             <p className="text-muted-foreground mb-8">

@@ -12,7 +12,7 @@ const chefs = [
     name: 'Sophia Martinez',
     role: 'Pastry Chef',
     bio: 'A master of desserts, Sophia combines classical training with innovative flavor combinations.',
-    imageUrl: 'https://images.unsplash.com/photo-1607631568211-eaec5a253456?q=80&w=1964&auto=format&fit=crop',
+    imageUrl: 'https://images.unsplash.com/photo-1588854337236-066c73a41d2d?q=80&w=1964&auto=format&fit=crop',
   },
   {
     id: 3,

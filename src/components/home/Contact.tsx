@@ -56,8 +56,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-medium mb-1">Location</h4>
-                  <p className="text-muted-foreground">123 Gourmet Avenue, Culinary District</p>
-                  <p className="text-muted-foreground">New York, NY 10001</p>
+                  <p className="text-muted-foreground">Koramangala, 5th Block, Bangalore,</p>
+                  <p className="text-muted-foreground">Karnataka 560095</p>
                 </div>
               </div>
               
@@ -67,7 +67,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-medium mb-1">Reservations</h4>
-                  <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                  <p className="text-muted-foreground">+91 9019813744</p>
                 </div>
               </div>
               
@@ -77,7 +77,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-medium mb-1">Email</h4>
-                  <p className="text-muted-foreground">reservations@foodyzone.com</p>
+                  <p className="text-muted-foreground">anusha@foodyzone.com</p>
                 </div>
               </div>
               
@@ -151,7 +151,7 @@ const Contact = () => {
                   value={phone}
                   onChange={(e) => setPhone(e.target.value)}
                   className="w-full p-3 rounded-lg border border-border bg-background focus:outline-none focus:ring-2 focus:ring-foody-300/50"
-                  placeholder="(555) 123-4567"
+                  placeholder="9019813744"
                   required
                 />
               </div>

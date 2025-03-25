@@ -46,7 +46,9 @@ const Navbar = () => {
             <a
               key={link.name}
               href={link.href}
-              className="text-sm font-medium text-foreground transition-all duration-300 hover:text-foody-300 relative after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-0 after:bg-foody-300 after:transition-all after:duration-300 hover:after:w-full"
+              //className="text-sm font-medium text-white transition-all duration-300 hover:text-foody-300 relative after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-0 after:bg-foody-300 after:transition-all after:duration-300 hover:after:w-full"
+              className="text-sm font-medium text-yellow-500 transition-all duration-300 hover:text-yellow-400"
+
             >
               {link.name}
             </a>
